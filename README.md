@@ -1,10 +1,10 @@
 # PyBer Analysis
 
 ## Overview of Project
-The project is to prepare all standardized test data analysis, reporting, and presentation to provide insights about performance trends and patterns.  These insights are used to inform discussions and strategic decisions at the school and district level.  A new_full_student_data.csv file is being provided that includes student ID, student name, grade, school name, reading score, math score, school type (charter/public) and school budget.  In order to be in sync with the working team a python development environment needs to be created and used throughout the project work.
+The project is to prepare all standardized test data analysis, reporting, and presentation to provide insights about performance trends and patterns.  These insights are used to inform discussions and strategic decisions at the school and district level.  A new_full_student_data.csv file is being provided that includes student ID, student name, grade, school name, reading score, math score, school type (charter/public) and school budget.  In order to be in sync with the working team a python development environment needs to be created and used throughout the project work.  In order to produce a summary, analysis and recommendations python and Pandas will be used to create a summary DataFrame of the ride-sharing data by city type and Pandas and Matplotlib will be used to create a multi-line graph that shows the total weekly fares for each city type.  The final deliverable is a written report that summarizes how the data differs by city type and how these differences can be used by decision-makers at PyBer.
 
 ### Purpose
-The purpose of this project is to prepare and analyze the new dataset file (new_full_student_data.csv) to provide insight and presentation to school district management.  Analyzing performance trends and patterns for math and reading scores will require creating summaries and drill-downs of the data provided.  This will require using Jupyter Notebook and Pandas in a Python environment and creating a dataframe, reading the dataset .csv, cleaning the data, using location functions, aggregations and summary statistics. 
+The purpose of this project is to use images from the summary DataFrame and multi-line chart and describe the differences in ride-sharing data among the different city types.  Based on the results business recommnedations need to be made to the CEO for addressing any disparities amongt the city types.
 
 ## Results
 
