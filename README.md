@@ -14,3 +14,8 @@ The student and school type data analysis shows comparisons of reading and math 
 Total Fare by City Type Line Chart:
 
 ![Total_Fare_By_City_Type_Line_Chart](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/analysis/Total_Fare_By_City_Type_Line_Chart.png)
+
+## Summary
+
+### Recommendations
+
