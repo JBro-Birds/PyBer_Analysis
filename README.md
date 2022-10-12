@@ -1,10 +1,10 @@
 # PyBer Analysis
 
 ## Overview of Project
-The project is to prepare all standardized test data analysis, reporting, and presentation to provide insights about performance trends and patterns.  These insights are used to inform discussions and strategic decisions at the school and district level.  A new_full_student_data.csv file is being provided that includes student ID, student name, grade, school name, reading score, math score, school type (charter/public) and school budget.  In order to be in sync with the working team a python development environment needs to be created and used throughout the project work.  In order to produce a summary, analysis and recommendations python and Pandas will be used to create a summary DataFrame of the ride-sharing data by city type and Pandas and Matplotlib will be used to create a multi-line graph that shows the total weekly fares for each city type.  The final deliverable is a written report that summarizes how the data differs by city type and how these differences can be used by decision-makers at PyBer.
+PyBer is a ride-sharing app company valued at $2.3 billion.  The CEO has assigned this project to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization.  In order to produce a summary, perform analysis and make recommendations python and Pandas will be used to create a summary DataFrame of the ride-sharing data by city type and Pandas and Matplotlib will be used to create a multi-line graph that shows the total weekly fares for each city type.  Rider and city type data .csv files have been provided as the data source.  The final deliverable is a written report that summarizes how the data differs by city type and how these differences can be used by decision-makers at PyBer.
 
 ### Purpose
-The purpose of this project is to use images from the summary DataFrame and multi-line chart and describe the differences in ride-sharing data among the different city types.  Based on the results business recommnedations need to be made to the CEO for addressing any disparities amongt the city types.
+The purpose of this project is to use images from the summary DataFrame and multi-line chart and describe the differences in ride-sharing data among the different city types.  Based on the results business recommendations need to be made to the CEO for addressing any disparities among the city types.
 
 ## Results
 
