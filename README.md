@@ -20,5 +20,6 @@ Total Fare by City Type Line Chart:
 ## Summary
 
 ### Recommendations
+There are three business recommendations for addressing disparities among city types.
 
 
