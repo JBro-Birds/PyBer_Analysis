@@ -9,8 +9,9 @@ The purpose of this project is to use images from the summary DataFrame and mult
 ## Results
 
 ### Ride-Share Results
-There are three ride-share areas, urban, suburban and rural.  As would be expected number of rides and total fares are highest in the urban area as the population and ride-share demand is highest and the lowest number of rides and fares are in the rural area.  The suburban area falls in the middle. 
+There are three ride-share areas, urban, suburban and rural.  As would be expected number of rides and total fares are highest in the urban area as the population and ride-share demand is highest and the lowest number of rides and fares are in the rural area.  The suburban area falls in the middle.  The results is as follows:
 
+![Ride_Share_Summary](https://raw.githubusercontent.com/JBro-Birds/PyBer_Analysis/master/analysis/Ride_Share_Summary.png)
 
 Total Fare by City Type Line Chart:
 
