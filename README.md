@@ -21,5 +21,7 @@ Total Fare by City Type Line Chart:
 
 ### Recommendations
 There are three business recommendations for addressing disparities among city types.
-* 369,711 votes were cast in the congressional election.
-
+* Decrease the number of urban drivers.  There are too many urban drivers based on demand which in turn is lowering the average fare per driver.  The lower average fare per driver is going to discourage urban drivers and create business issues in the future.  Eliminating a number of urban drivers will lower company costs.
+* Create and implement a driver-by-area flexibility model based on periods of higher demand by area.  Based on driver home addresses have rural and suburban drivers 
+swap areas when needed and likewise have suburban and urban drivers swap areas.  This type of flexibility will increase driver morale by increasing their average fare by driver and increase company efficiencies.
+* Decrease the number of urban drivers.  There are too many urban drivers based on demand which in turn is lowering the average fare per driver.  The lower average fare per driver is going to discourage urban drivers and create business issues in the future.  Eliminating a number of urban drivers will lower company costs.
