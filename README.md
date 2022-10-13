@@ -8,8 +8,9 @@ The purpose of this project is to use images from the summary DataFrame and mult
 
 ## Results
 
-### Data Analysis Results
-The student and school type data analysis shows comparisons of reading and math scores, school budgets and school student counts. A finding that stood out is the average math score for charter schools decreased from 9th grade to 12th grade by ~10% while public school average math scores remained consistent grade-over-grade. Performing additional analysis on the average reading score by school type and grade shows the charter school average decreased by ~10% from 11th grade to 12th grade while the public school average remained mostly consistent grade-over-grade.  There could be many drivers that impact math and reading scores between school types and grades, and from the dataset provided further reasoning could be determined by analysing the impact of school size (student count) and school budget values.  Running a groupby on school_name and then aggregating on mean math_score, mean_reading score, school_budget and student_count provides a useful summary to perform a deeper analysis to determine if there are correlations impacting scores.  In addition, the dataset provided could be more powerful by including demographics or other external factors for specific school regions in order to better analyze and determine drivers and reasons for fluctuations grade-over-grade within schools as well as comparing charter schools to public schools. 
+### Ride-Share Results
+There are three ride-share areas, urban, suburban and rural.  As would be expected number of rides and total fares are highest in the urban area as the population and ride-share demand is highest and the lowest number of rides and fares are in the rural area.  The suburban area falls in the middle. 
+
 
 Total Fare by City Type Line Chart:
 
@@ -18,4 +19,5 @@ Total Fare by City Type Line Chart:
 ## Summary
 
 ### Recommendations
+
 
