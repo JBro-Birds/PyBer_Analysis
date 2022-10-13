@@ -21,5 +21,5 @@ Total Fare by City Type Line Chart:
 
 ### Recommendations
 There are three business recommendations for addressing disparities among city types.
-
+* 369,711 votes were cast in the congressional election.
 
